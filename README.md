@@ -1,10 +1,10 @@
 README.md
 
-#Intro
+# Intro
 
 Welcome to the main branch. This is where you can read up on the current scripts, the future ideas, and the intention of the scripts you can see.
 
-#FinDIR.bat
+# FinDIR.bat
 
 FinDIR is a basic bash script that finds a directory and file off user input and performs the following:
 
@@ -16,4 +16,4 @@ OR
 > Find a directory by provided name. If it finds one, will use the first found directory and move into it.
   > Will search for a file with the provided name in the found directory. If it doesn't not find it, will create it.
 
-All created or found directories/files will be printed to screen of said action.
+All created or found directories/files will be printed to screen of said action
